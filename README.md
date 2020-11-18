@@ -5,4 +5,5 @@ Kişiye özel sertifikalar `certificates` klasörünün içindedir.
 
 ## Onaylayanlar
 -Zehra ÖZMALKOÇ
+
 -Batuhan Enes BAŞAY
